@@ -1,6 +1,3 @@
 # SoulCodeAcademy
-Exercícios
-
-Olá, este repositório é onde colocarei meus arquivos de HTML, CSS e JavaScript.
-
+Exercícios em HTML.
 Author Yasmine Pallin.
